@@ -1,5 +1,5 @@
 # snapchat-download
-Download all your files
+Download all your files: https://support.snapchat.com/en-US/a/download-my-data
 
 Install python 3.7 or higher.
 Install via pip: requests
